@@ -1,6 +1,6 @@
 # Hi there, I'm Kerem Barbaros Karnabat 👋
 
-I'm a software developer and designer passionate about building interactive software, engaging gameplay mechanics, and quantitative algorithmic systems. With a background in **Digital Game Design**, I enjoy bridging the gap between technical programming and creative 3D workflows.
+I'm a software developer and designer passionate about building interactive software, engaging gameplay mechanics, and quantitative algorithmic systems. As a **Computer Programming** graduate currently studying **Digital Game Design**, I enjoy bridging the gap between technical programming and creative 3D workflows.
 
 ## 🚀 About Me
 * 🎮 **Game Development:** Programming core gameplay mechanics, character controllers, user interfaces, and interactive systems using **C#**, **Unity**, and **MonoGame**.
