@@ -21,11 +21,7 @@ I'm a software developer and designer passionate about building interactive soft
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![CadaKerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CadaKerem&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CadaKerem&layout=compact&theme=radical)
-
 ## 📫 How to Reach Me
 * **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
-* **GitHub:** [@CadaKerem](https://github.com/CadaKerem)
-* **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/kerem-barbaros-karnabat-b6bb51270/) 
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kerembarbaroskarnabat/)
+
