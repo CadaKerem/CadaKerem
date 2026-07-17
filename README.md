@@ -9,9 +9,9 @@ I'm a software developer and designer passionate about building interactive soft
 * 💡 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
 
 ## ⭐ Featured Projects
-* [**Chase Runner**](https://github.com/CadaKerem/chase-runner) — A fast-paced, local 2-player chase runner built with MonoGame — one hunts, one survives.
-* [**Coffin Clash**](https://github.com/CadaKerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
-* [**TLOU Simulation**](https://github.com/CadaKerem/tlou-simulation) — An ecosystem simulation project modeling infection dynamics.
+* [**Chase Runner**](https://github.com/cadakerem/chase-runner) — A fast-paced, local 2-player chase runner built with MonoGame — one hunts, one survives.
+* [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
+* [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — An ecosystem simulation project modeling infection dynamics.
 
 ## 🛠️ Tech Stack & Tools
 
