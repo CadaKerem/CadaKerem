@@ -6,7 +6,12 @@ I'm a software developer and designer passionate about building interactive soft
 * 🎮 **Game Development:** Programming core gameplay mechanics, character controllers, user interfaces, and interactive systems using **C#**, **Unity**, and **MonoGame**.
 * 📈 **Algorithmic Trading & Automation:** Developing quantitative trading bots, financial market scanners, and conducting historical backtests using **Python**.
 * 🎨 **3D Asset Pipeline:** Experienced in 3D modeling, rigging, and animation workflows with **Autodesk Maya** to create optimized assets for real-time game engines.
-* 💡 **Current Focus:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
+* 💡 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
+
+## ⭐ Featured Projects
+* [**Chase Runner**](https://github.com/CadaKerem/chase-runner) — A fast-paced, dual-character 2D runner game built with MonoGame.
+* [**Coffin Clash**](https://github.com/CadaKerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
+* [**TLOU Simulation**](https://github.com/CadaKerem/tlou-simulation) — An ecosystem simulation project modeling infection dynamics.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -19,9 +24,16 @@ I'm a software developer and designer passionate about building interactive soft
 ### **Game Engines, 3D & Design**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
+
+### **Data & Automation (Trading)**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Backtrader](https://img.shields.io/badge/Backtrader-2C2255?style=for-the-badge&logo=python&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-00A98F?style=for-the-badge&logo=python&logoColor=white)
+
+### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 How to Reach Me
 * **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kerembarbaroskarnabat/)
-
