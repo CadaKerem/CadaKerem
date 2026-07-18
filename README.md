@@ -11,7 +11,7 @@ I'm a software developer and designer passionate about building interactive soft
 ## ⭐ Featured Projects
 * [**Chase Runner**](https://github.com/cadakerem/chase-runner) — A fast-paced, local 2-player chase runner built with MonoGame — one hunts, one survives.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
-* [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — An ecosystem simulation project modeling infection dynamics.
+* [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations-based survival/crafting simulation comparing three player skill profiles under identical resource scarcity and combat pressure.
 
 ## 🛠️ Tech Stack & Tools
 
